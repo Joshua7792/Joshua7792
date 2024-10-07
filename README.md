@@ -20,8 +20,7 @@ I'm a Software Engineer, passionate about solving problems and building innovati
 ### 📫 How to reach me:
 
 - Email: [j.santiago39@hotmail.com](mailto:j.santiago39@hotmail.com)
-- LinkedIn: [Add your LinkedIn URL here]
-- Twitter: [Add your Twitter Profile here]
+- LinkedIn: [www.linkedin.com/in/joshua-santiago00]
 
 ### ⚡ Fun fact: I love to explore new technologies and apply them in creative ways to solve real-world problems.
 
