@@ -1,41 +1,18 @@
-# Hi there, I'm Joshua Santiago! 👋
+# Joshua Santiago
 
-## Welcome to my GitHub Profile!
+Construction Coordinator / AI Developer / IT at Jacobs, Life Sciences Americas, in Puerto Rico. I build production systems for regulated work and multi-agent Claude Code workflows, and I measure the results, including the misses.
 
-I'm a Software Engineer, passionate about solving problems and building innovative software solutions. I'm constantly learning and working on projects related to various computer languages. Here's a little more about me:
+Portfolio, with eight case studies and my resume: https://portfolio-sigma-three-tmrj6hp9mg.vercel.app
 
-### 🌱 I’m currently learning ...
+## Public code
 
-- Exploring new computer languages and technologies to broaden my expertise and stay updated with the latest trends in software development.
+- [agent-os-showcase](https://github.com/Joshua7792/agent-os-showcase): the operating layer I run Claude Code with. An SOP every project follows, role-scoped subagents, a script that gives each parallel builder its own git worktree, a status pane and a command-center snapshot.
+- [jev-eval-harness](https://github.com/Joshua7792/jev-eval-harness): a five-day research harness that asks whether a commercial LLM's typed market judgment beats trivial baselines on hourly BTC/USD. Sealed holdout, purge, deflated Sharpe, block bootstrap. The answer was no, and the write-up says why.
+- [blog-poster](https://github.com/Joshua7792/blog-poster): a Python pipeline that researches a topic with Exa and Firecrawl and drafts a post.
+- [Portfolio](https://github.com/Joshua7792/Portfolio): the source of the site above (Next.js, static, Lighthouse 100 on all four categories).
 
-### 👨‍💻 All of my projects are available [here](https://github.com/Joshua7792)
+The Jacobs reporting platform and the bilingual field app I build at work are private. Their case studies on the portfolio use synthetic data with the production structure.
 
-### 💬 Ask me about ...
+## Contact
 
-- Software development practices
-- Web development
-- Mobile app development
-- Anything tech-related!
-
-### 📫 How to reach me:
-
-- Email: [j.santiago39@hotmail.com](mailto:j.santiago39@hotmail.com)
-- LinkedIn: [www.linkedin.com/in/joshua-santiago00]
-
-### ⚡ Fun fact: I love to explore new technologies and apply them in creative ways to solve real-world problems.
-
-## My GitHub Stats
-
-![Joshua Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua7792&show_icons=true&theme=radical)
-
-## 🔭 I’m currently working on ...
-
-- Diving deep into the latest software development frameworks and languages.
-- Collaborating on open-source projects to give back to the community.
-- Personal projects that challenge my understanding and push me to learn more.
-
-## 🤝 Let's Connect!
-
-Feel free to reach out if you're looking for a collaborator, want to join forces on a project, or just want to chat about technology. I'm always open to making new connections and exploring innovative ideas.
-
-<!-- This is a comment in Markdown -->
+j.santiago39@hotmail.com · [linkedin.com/in/joshua-santiago00](https://www.linkedin.com/in/joshua-santiago00)
